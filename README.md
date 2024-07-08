@@ -21,8 +21,8 @@ Trip Planner AI is an AI-driven application that helps you plan your trips by ge
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/trip-planner-ai.git
-    cd trip-planner-ai
+    git clone https://github.com/AnishHassan/crewai_travel_planner.git
+    cd crewai_travel_planner
     ```
 
 2. **Set up the virtual environment**:
